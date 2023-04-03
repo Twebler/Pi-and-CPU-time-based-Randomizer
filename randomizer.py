@@ -1,17 +1,5 @@
 #Random number generator base of a pi and cpu time
 
-#9.550561797752808%  Chances for 0
-#11.025280898876405% Chances for 1
-#10.182584269662922% Chances for 2
-#10.042134831460674% Chances for 3
-#9.410112359550562%  Chances for 4
-#10.042134831460674% Chances for 5
-#9.480337078651685%  Chances for 6
-#9.620786516853933%  Chances for 7
-#9.97191011235955%   Chances for 8
-#10.674157303370785% Chances for 9
-#0.000000000000002%  missing due to rounding by the computer
-
 import time as t
 
 #--------
