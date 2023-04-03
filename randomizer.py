@@ -15,7 +15,7 @@
 import time as t
 
 #--------
-#Implemetation of the Bailey–Borwein–Plouffe (BBP) algorythm to calculate digits of py
+#Implemetation of the Bailey–Borwein–Plouffe (BBP) algorithm to calculate digits of py
 #Credit: Fermat's Library on Twitter
 from decimal import Decimal
 from decimal import getcontext
