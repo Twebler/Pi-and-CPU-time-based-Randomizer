@@ -1,9 +1,11 @@
 # Pi-and-CPU-time-based-Randomizer
 Description:
+
 -Small script that returns a pseudo-random number inbetween 0 and 9 based of CPU-time and digits of Pi
 
 
 explanation about the number 1424 in the code:
+
 -while trying to figure out how to code this thing i realised that maybe some amount of numbers will be more accurate than others for example in the first 100 digits there are:
 
 
