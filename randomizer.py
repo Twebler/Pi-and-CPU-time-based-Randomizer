@@ -20,7 +20,7 @@ def pi(precision):
 def rand():
     #Turns all the 1424 after the decimal point in py into a list of integers
     pilist = [int(element) for element in [*str(pi(1424))[2:]]]
-    #gets CPU time after the comma since last Epoch and multiplies it by 1423 and rounts it with int() to get a number inbetween 0 and 1423 that changes every millisecond
+    #gets CPU time after the comma since last Epoch and multiplies it by 1423 and rounts it with int() to get a natural number inbetween 0 and 1423 that changes every millisecond
     time = int(((t.time())-int((t.time())))*1423)
     return pilist[time]
 
